@@ -32,7 +32,7 @@ import ch.makery.address.view.RootLayoutController;
 import domain.PersonDomainModel;
 
 public class MainApp extends Application {
-
+//test note
     private Stage primaryStage;
     private BorderPane rootLayout;
     
